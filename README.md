@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BlackburnGB
+- 👋 Hi, I’m @GabrieReetsang
 - 👀 I’m interested in Business Intelligence, Data Analysis and Machine learning
 - 🌱 I’m currently learning Data analysis using python
 - 💞️ I’m looking to collaborate on data analysis,vizualization, and machine learning projects
